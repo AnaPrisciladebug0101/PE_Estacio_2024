@@ -14,3 +14,7 @@ Programa em Python com Pandas que através de uma planilha gera informações e 
   python -m pip install pandas
 ```
 
+## Screenshots
+
+![Dados Plotados](https://i.postimg.cc/XJ27pw4x/Dados-Total.png)
+![GraficoDePizza](https://i.postimg.cc/kg9ZpG0v/Qnt-Vagas-Por-Porcentagem.png)
